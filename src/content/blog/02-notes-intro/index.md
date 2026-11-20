@@ -6,13 +6,13 @@ date: "Nov 19 2026"
 
 My first initiative is to research the field of digital handwritten notetaking. 
 
-# Prologue
+### Prologue
 
 I am quite fond of writing my notes by hand - there is extensive literature documenting the delta of data density retained when learning orally, versus typewritten, versus handwritten, versus kinesthetically. In order to learn the brain needs to engage as many different functions as possible. Oral engagement activates only the ears, and the mouth. Typewritten engages the fingers but does so in a rather repetitive fashion and does so in a rather slow fashion - the mind can often think faster than one can type, so this is equivalent to riding a bike on training wheels. Unless you have a highly structured digital system, like a LaTeX framework you use to help sort your data into buckets, it is recommended to handwrite notes if possible. 
 
 Kinesthetics obviously begin to engage more suborgans in the brain, requiring spatial cognition, extreme fine motor control. However, there's only so much kinesthetic demonstration you can get out of textbooks, class lectures, and highly theoretical applications like that of algorithmic analysis. For that you are probably best suited to engaging in lab software, like a MatLab circuit simulation demonstrating the response curves in an RLC circuit.
 
-# Examination
+### Examination
 
 Of course, when you begin to examine the options for handwritten notetaking, I find the resources to be quite limiting. Physical paper-drafted handwritten notes of course are so widely used it's almost not worth discussing the pro's and con's, in the digital era. Paper quality, journal binding quality, storage mechanisms, transferrability (or lack thereof), and the limited expressive space of a physical paper (unable to scale to the mind's size of a thought) - it is reliable but falls quite short of *perfection*. 
 
@@ -28,7 +28,7 @@ Thus, we must examine the list of options for a digital handwritten notetaking a
 
 It goes without saying that there are many more proprietary options, typically exclusive to one use case or proprietary. I find those disqualifying for the obvious fact that the sheer concept of notetaking is not proprietary. I should have the capacity to take my notes anywhere on any platform.
 
-# Research
+### Research
 
 I come to the conclusion that I find the space quite limited - and I must begin to research what makes a good note taking app, and how to improve upon the space.
 

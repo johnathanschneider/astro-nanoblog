@@ -2,6 +2,7 @@
 title: "Wash Day"
 description: "Nice night for a walk, eh?"
 date: "Nov 19 2026"
+draft: true
 ---
 
 # Foreword

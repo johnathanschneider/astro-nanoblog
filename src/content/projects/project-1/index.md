@@ -3,7 +3,7 @@ title: "Flutter Shell"
 description: "An improved stock Flutter application shell"
 date: "Nov 20 2026"
 draft: false
-repoUrl: https://github.com/johnathanschneider/flutter-shell
+repoURL: https://github.com/johnathanschneider/flutter-shell
 ---
 
 ### About

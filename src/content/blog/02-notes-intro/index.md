@@ -2,6 +2,7 @@
 title: "The mystery at Clavius Base"
 description: "Open the pod bay doors HAL"
 date: "Nov 19 2026"
+draft: true
 ---
 
 My first initiative is to research the field of digital handwritten notetaking. 
